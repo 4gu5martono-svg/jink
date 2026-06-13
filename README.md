@@ -1,2 +1,0 @@
-# jink
-aplikasi
